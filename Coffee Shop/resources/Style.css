@@ -1,0 +1,112 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Hammersmith One', sans-serif;
+    font-family: 'Maven Pro', sans-serif;
+}
+
+
+img{
+    padding: auto;
+    margin: auto;
+    display: block;
+    flex-direction: row;
+    flex-wrap: wrap;
+    width: 600px;
+    height: auto;
+    padding-top: 25px;
+    
+}
+
+p{
+    font-size: 30px;
+    text-align: center;
+    padding: 70px;
+}
+
+footer{
+    text-align: center;
+    background-color: gray;
+    padding: 60px;
+    padding-left: 600px;
+    padding-right: 600px;
+}
+
+.coffee-background{
+    background-color:  rgb(255, 251, 233);
+}
+
+.logo-background{
+    /*background-color:  rgb(255, 251, 233);*/
+    margin: auto;
+    padding: auto;
+    min-height: 500px;
+}
+
+.navigation-bar{
+    list-style: none;
+    text-align: left;
+    line-height: 1.5;
+    display: block;
+    text-align: right;
+    background-color: hsl(0, 25%, 35%);
+}
+
+.navigation-bar ul{
+    list-style: none;
+    display: inline-flex;
+
+}
+
+.navigation-bar ul li{
+    padding: 25px;
+    width: auto;
+}
+
+.navigation-bar ul li a{
+    text-decoration: none;
+    color: white;
+}
+
+.navigation-bar ul li a:hover{
+ border: 0.5px;
+ border-bottom-style: solid;
+ color: rgb(255, 87, 87);
+}
+
+.image-container{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.subhead-1, 
+.subhead-2{
+    
+    font-size: 70px;
+    font-family: 'Lemonada', cursive;
+    font-family: 'Lobster', cursive;
+    text-align: center;
+    line-height: 1.1;
+    line-break: auto;
+    padding: 40px;
+}
+
+
+.our-locations{
+    background-color:hsl(6, 93%, 71%);
+    padding-left: 600px;
+    padding-right: 600px;
+}
+
+.our-story{
+    background-color:hsl(24, 100%, 67%) ;
+    padding-left: 600px;
+    padding-right: 600px;
+}
+    
+
+.instagram{
+    width: 50px;
+    height: 50px;
+    padding: 10px;
+}
