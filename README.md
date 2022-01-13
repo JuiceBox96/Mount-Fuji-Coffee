@@ -1,2 +1,2 @@
 # Mount-Fuji-Coffee
-Why do we have an obsession with coffee?
+Need to add media queries for responsive design
